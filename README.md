@@ -1,6 +1,6 @@
 # SimCLR - TensorFlow 2
 
-This is an unofficial implementation of [SimCLR](https://arxiv.org/pdf/2002.05709.pdf) for self-supervised image representation learning on the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
+This is an unofficial implementation of [SimCLR](https://arxiv.org/pdf/2002.05709.pdf) for self-supervised image representation learning on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 ## Results
 
@@ -12,7 +12,7 @@ Clone this repository:
 
 ```bash
 git clone https://github.com/garder14/simclr-tensorflow2.git
-cd erfnet-tensorflow2/
+cd simclr-tensorflow2/
 ```
 
 Install the dependencies:
