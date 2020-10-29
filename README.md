@@ -1,6 +1,6 @@
 # SimCLR - TensorFlow 2
 
-This is an unofficial implementation of [SimCLR](https://arxiv.org/pdf/2002.05709.pdf) for self-supervised image representation learning on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
+This is an unofficial implementation of ["A Simple Framework for Contrastive Learning of Visual Representations"](https://arxiv.org/pdf/2002.05709.pdf) (SimCLR) for self-supervised representation learning on the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 <img src="https://i.imgur.com/G2vt50c.png" width="85%">
 
