@@ -52,4 +52,4 @@ It takes around 1 hour on a Tesla P100 GPU.
 
 ## References
 
-* [T. Chen et al., "A Simple Framework for Contrastive Learning of Visual Representations", 2020](https://arxiv.org/pdf/2002.05709.pdf)
+* [Ting Chen et al., "A Simple Framework for Contrastive Learning of Visual Representations", 2020](https://arxiv.org/pdf/2002.05709.pdf)
