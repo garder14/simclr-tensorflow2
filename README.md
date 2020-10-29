@@ -6,7 +6,7 @@ This is an unofficial implementation of ["A Simple Framework for Contrastive Lea
 
 ## Results
 
-The linear evaluation accuracy of a Resnet-18 or ResNet-34 encoder pretrained for 100, 200 or 300 epochs is shown below.
+The linear evaluation accuracy of a ResNet-18 or ResNet-34 encoder pretrained for 100, 200 or 300 epochs is shown below.
 
 |           | 100 epochs | 200 epochs | 300 epochs |
 |:---------:|:----------:|:----------:|:----------:|
